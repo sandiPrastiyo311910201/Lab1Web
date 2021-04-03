@@ -24,11 +24,32 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 # Langkah 4
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
 
- <p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
-    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
-    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
-    tag-tag dasar HTML.</p>
-    
+ ![4](https://user-images.githubusercontent.com/81818405/113481841-144da380-94c6-11eb-96d5-d88284333def.PNG)
+ 
+# Langkah 5
+Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html.
+
+![5 LOGO](https://user-images.githubusercontent.com/81818405/113481894-4fe86d80-94c6-11eb-9ea0-30c456c1b12c.PNG)
+
+Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
+
+![5](https://user-images.githubusercontent.com/81818405/113481936-8a520a80-94c6-11eb-85d5-3bbda53853f4.PNG)
+
+# Langkah 6
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+
+![6](https://user-images.githubusercontent.com/81818405/113481991-c7b69800-94c6-11eb-9fa9-12a714db1753.PNG)
+
+# Langkah 7
+Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperlink.
+
+![7](https://user-images.githubusercontent.com/81818405/113482037-faf92700-94c6-11eb-8517-2d985ef54f65.PNG)
+
+
+
+
+
+
     
 
 
