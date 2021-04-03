@@ -1,5 +1,5 @@
 # Lab1Web
-#praktikum1
+#praktikum1#
 #Langkah 1
 Buka VSCode dan buat file HTML baru. Setelah itu buat struktur dasar HTML.
 
