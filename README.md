@@ -45,6 +45,30 @@ Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperl
 
 ![7](https://user-images.githubusercontent.com/81818405/113482037-faf92700-94c6-11eb-8517-2d985ef54f65.PNG)
 
+# pertanyaan
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+
+tidak terjadi eror, jika ada kesalahan penulisan tag maka tidak ada perubahan apa-apa. masih seperti tampilan sebelumnya
+
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+
+Pada hasil praktik yang saya lakukan, perbedaan  tag <p> jarak enter nya tidak terlalu jauh, sedangkan tag <br> jarak enter nya lebih jauh 1 line dari tag <p>.
+ 
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+
+Ketika gambar di tampilkan akan terlihat sebuah title. sedangkan, jika gambar gagal ditampilkan akan menampilkan teks atribut alt.
+
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+
+kedua atribut harus di isi semua, karena jika hanya salah satunya maka gambar tersebut akan terlihat terlalu lebar atau tinggi.
+
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+Menambah hyperlink baru dan menampilkan yg telah di tentukan, untuk blank akan menambah tab baru terlebih dahulu maka akan menampilkan link yang dituju.
+
 
 
 
